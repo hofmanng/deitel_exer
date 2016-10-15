@@ -1,1 +1,1 @@
-# Exercícios do livro C - Como programar
+# Exercícios do livro C - Como programar [Deitel & Deitel]
